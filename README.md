@@ -6,7 +6,7 @@ Hi, I’m @LeopoldineMirtil
 - Familiar with: Python, SQL, R, Tableau, PowerBI, and Excel 
 
 
-- Currently working on re-doing a case study, updating some Tableau workborks and relearning Python.
+- Currently updating some Tableau workborks and relearning Python.
 
 
 - Future languages to learn:
