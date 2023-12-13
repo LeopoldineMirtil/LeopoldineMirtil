@@ -6,7 +6,7 @@ Hi, I’m @LeopoldineMirtil
 - Familiar with: Python, SQL, R, Tableau, PowerBI, and Excel 
 
 
-- Currently working on dashboards in PowerBI and Tableau
+- Currently re-learning Python and expanding Excel skills
 
 
 - Future languages to learn:
