@@ -6,7 +6,7 @@ Hi, I’m @LeopoldineMirtil
 - Familiar with: Python, SQL, R, Tableau, PowerBI, and Excel 
 
 
-- Currently re-learning Python and expanding Excel skills
+- Currently refreshing Python and Excel skills
 
 
 - Future languages to learn:
@@ -14,7 +14,7 @@ Hi, I’m @LeopoldineMirtil
    - CSS
    - Java
 
-- Future projects: several Tableau workbooks, Countdown Numbers Game(Python), Pokedex
+- Future projects: several Tableau workbooks, Countdown Numbers Game(Python)
 
 <!---
 LeopoldineMirtil/LeopoldineMirtil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
