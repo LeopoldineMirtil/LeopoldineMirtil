@@ -6,7 +6,7 @@ Hi, I’m @LeopoldineMirtil
 - Familiar with: Python, SQL, R, Tableau, PowerBI, and Excel 
 
 
-- Currently refreshing Python and Excel skills
+- Currently refreshing Python with freeCodeCamp and Excel skills
 
 
 - Future languages to learn:
