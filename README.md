@@ -6,6 +6,9 @@ Hi, I’m @LeopoldineMirtil
 - Familiar with: Python, SQL, R, Tableau, PowerBI, and Excel 
 
 
+- Completed freeCodeCamp course: College Algebra with Python
+
+
 - Currently refreshing Python with freeCodeCamp and Excel skills
 
 
@@ -14,7 +17,7 @@ Hi, I’m @LeopoldineMirtil
    - CSS
    - Java
 
-- Future projects: several Tableau workbooks, Countdown Numbers Game(Python)
+- Future projects: several Tableau workbooks, Countdown Numbers Game in Python
 
 <!---
 LeopoldineMirtil/LeopoldineMirtil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
