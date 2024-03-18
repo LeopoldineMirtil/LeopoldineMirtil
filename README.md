@@ -7,9 +7,10 @@ Hi, I’m @LeopoldineMirtil
 
 
 - Completed freeCodeCamp course: College Algebra with Python
+     * May pursue other courses on the site
 
 
-- Currently refreshing Python with freeCodeCamp and Excel skills
+- Currently redoing Tableau workbooks
 
 
 - Future languages to learn:
@@ -17,7 +18,7 @@ Hi, I’m @LeopoldineMirtil
    - CSS
    - Java
 
-- Future projects: several Tableau workbooks, Countdown Numbers Game in Python
+- Future projects: several Tableau workbooks, Countdown Numbers Game in Python, etc pending
 
 <!---
 LeopoldineMirtil/LeopoldineMirtil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
