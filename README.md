@@ -2,23 +2,25 @@ Hi, I’m @LeopoldineMirtil
 
 - I’m interested in reading, playing video games, mythology/fairy tales and puzzles.
 
-
 - Familiar with: Python, SQL, R, Tableau, PowerBI, and Excel 
 
+- In progress:
+    - Data Analysis with Python *(freeCodeCamp.com)*
 
-- Completed freeCodeCamp course: College Algebra with Python
-     * May pursue other courses on the site
+- Completed Online Certificates:
+    - College Algebra with Python *(freeCodeCamp.com)*
+    - Google Data Analytics *(Coursera.com)*
+    - Intuit Academy Bookkeeping *(Coursera.com)*
+    - openSAP.com *(Python for Beginners)*
+          
 
-
-- Currently redoing Tableau workbooks
+- Deciding on personal projects
 
 
 - Future languages to learn:
    - HTML
-   - CSS
-   - Java
+   - C or C++ or C# ()
 
-- Future projects: several Tableau workbooks, Countdown Numbers Game in Python, etc pending
 
 <!---
 LeopoldineMirtil/LeopoldineMirtil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
