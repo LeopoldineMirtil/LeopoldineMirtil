@@ -5,16 +5,18 @@ Hi, I’m @LeopoldineMirtil
 - Familiar with: Python, SQL, R, Tableau, PowerBI, and Excel 
 
 - In progress:
-    - Data Analysis with Python *(freeCodeCamp.com)*
+    - Deciding on personal projects
+    - considering whether to add dashboards
 
-- Completed Online Certificates:
-    - College Algebra with Python *(freeCodeCamp.com)*
-    - Google Data Analytics *(Coursera.com)*
-    - Intuit Academy Bookkeeping *(Coursera.com)*
-    - openSAP.com *(Python for Beginners)*
+- Completed Online Certificates/Courses:
+    - [Data Analysis with Python](https://www.freecodecamp.org/certification/Beata_Goblin/data-analysis-with-python-v7) *(freeCodeCamp.com)*
+    - [College Algebra with Python](https://www.freecodecamp.org/certification/Beata_Goblin/college-algebra-with-python-v8) *(freeCodeCamp.com)*
+    - [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/KET3RPGEDZA6) *(Coursera.com)*
+    - [Intuit Academy Bookkeeping](https://www.coursera.org/account/accomplishments/professional-cert/5PUURHB88BLP) *(Coursera.com)*
+    - [Python for Beginners](https://open.sap.com/verify/xofih-hylot-mobeg-kaset-vedyd) *(openSAP.com)*
           
 
-- Deciding on personal projects
+
 
 
 - Future languages to learn:
