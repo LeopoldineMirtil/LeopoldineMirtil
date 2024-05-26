@@ -2,11 +2,13 @@ Hi, I’m @LeopoldineMirtil
 
 - I’m interested in reading, playing video games, mythology/fairy tales and puzzles.
 
-- Familiar with: Python, SQL, R, Tableau, PowerBI, and Excel 
+- Familiar with:
+    - **Languages:** Python, R, Excel, SQL
+    - **Visualization Tools:** Tableau, PowerBI
 
 - In progress:
-    - Deciding on personal projects
-    - considering whether to add dashboards
+    - working on personal projects
+    - considering whether to create a personal website to add dashboards
 
 - Completed Online Certificates/Courses:
     - [Data Analysis with Python](https://www.freecodecamp.org/certification/Beata_Goblin/data-analysis-with-python-v7) *(freeCodeCamp.com)*
@@ -15,13 +17,6 @@ Hi, I’m @LeopoldineMirtil
     - [Intuit Academy Bookkeeping](https://www.coursera.org/account/accomplishments/professional-cert/5PUURHB88BLP) *(Coursera.com)*
     - [Python for Beginners](https://open.sap.com/verify/xofih-hylot-mobeg-kaset-vedyd) *(openSAP.com)*
           
-
-
-
-
-- Future languages to learn:
-   - HTML
-   - C or C++ or C# ()
 
 
 <!---
