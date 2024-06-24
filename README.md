@@ -7,8 +7,8 @@ Hi, I’m @LeopoldineMirtil
     - **Visualization Tools:** Tableau, PowerBI
 
 - In progress:
-    - working on personal projects
-    - considering whether to create a personal website to add dashboards
+    - editing case studies
+    - working on personal projects and dashboards
 
 - Completed Online Certificates/Courses:
     - [Data Analysis with Python](https://www.freecodecamp.org/certification/Beata_Goblin/data-analysis-with-python-v7) *(freeCodeCamp.com)*
