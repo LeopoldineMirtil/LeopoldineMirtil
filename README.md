@@ -6,9 +6,9 @@ Hi, I’m @LeopoldineMirtil
     - **Languages:** Python, R, Excel, SQL
     - **Visualization Tools:** Tableau, PowerBI
 
-- In progress:
-    - editing case studies
-    - working on personal projects and dashboards
+- Currently:
+    - reviewing and editing previous dashboards
+    - working on personal projects 
 
 - Completed Online Certificates/Courses:
     - [Data Analysis with Python](https://www.freecodecamp.org/certification/Beata_Goblin/data-analysis-with-python-v7) *(freeCodeCamp.com)*
