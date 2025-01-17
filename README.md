@@ -7,8 +7,7 @@ Hi, I’m @LeopoldineMirtil
     - **Visualization Tools:** Tableau, PowerBI
 
 - Currently:
-    - redoing previous files correctly
-    - reviewing and editing previous dashboards
+    - working on additional dashboards in Tableau and Power BI
     - working on personal projects 
 
 - Completed Online Certificates/Courses:
